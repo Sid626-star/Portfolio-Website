@@ -3,6 +3,7 @@ Table of Contents
 2:)My Intro
 3:)Blog
 4:)Contact Me
+
 Home <a name="/"></a>
 
 This repository contains the source code for my personal portfolio website. It was built using HTML, CSS, and JavaScript. The website showcases my projects, provides information about me, features a blog section, and allows visitors to get in touch with me.
